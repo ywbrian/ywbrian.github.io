@@ -5,10 +5,6 @@ html, body {
     padding: 0;
 }
 
-html {
-    background-color: #1a1d24;
-}
-
 body {
     display: flex;
     background-color: #1a1d24;
